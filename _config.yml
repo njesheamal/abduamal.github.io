@@ -1,11 +1,11 @@
 # Site settings
 author: Amal Abdu
-title: 
+title: The Art in Code
 header-img: img/home-bg.png
 email: abduamal@ymail.com
 copyright_name: Amal Abdu
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The journey and discovery of the influence of art in coding.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  abduamal
