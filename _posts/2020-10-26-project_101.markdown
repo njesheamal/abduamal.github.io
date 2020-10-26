@@ -1,0 +1,21 @@
+---
+layout: post
+title:      "PROJECT 101"
+date:       2020-10-26 04:54:36 +0000
+permalink:  project_101
+---
+
+The hardest part of any project for me is getting started. In this post, I hope to offer you some guidance on how to move forward when tackling a project. 
+
+The first thing is to acknowledge what kind of person you are. Are you visual? Is it okay for you to simply think the idea through? Are you the type that needs to write things down on actual paper, and crumple it up in a fit of frustration into a perfect sphere which you then propel into a waste basket? Whatever it is, it is important to know because it will help you move forward, especially if you feel stuck in the mud. 
+
+This is what has worked for me:
+
+1. Reading through the entire project guideline.
+2. Drafting ideas in my head.
+3. Doing research on said ideas and figuring out what I feel the most connected to. (It is important to do something you feel passionate about, that way you don't give up on it too easily.)
+4. Breaking the project requirments down into bits and pieces and coming up with an approach. (For example, for the Rails project, having many-to-many relationships is important. So, I wrote down my plans for each model I would need, the attributes, the data-types, and the relationships. In breaking down one aspect of the project, I was able to think through a great chunk of the whole project).
+5. Checking off which requirements I have fulfilled so that the mountain looks like a hill, then a hump, and so on.
+6. Keeping a list of the resources I use alongside the other things listed above, so that I have everything I need in one document.
+
+This helped me through a rather big and ambitious project. I hope it will help you through yours too. You can do it. Thanks for stopping by.
